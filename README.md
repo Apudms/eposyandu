@@ -31,11 +31,3 @@ composer update
 # Edit your .env file and all the credentials
 # Import the existing database in the Project folder
 php artisan serve
-
-
-```
-<br/>
-
-# 📖 API documentation
-Documentation using Postman:
-<a href="">EPosyandu Documentation V 1.0.0</a>
